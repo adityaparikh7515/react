@@ -1,0 +1,17 @@
+.home{
+    height: 90vh;
+    background: linear-gradient(rgba(145, 69, 69, 0.5),rgba(131, 123, 123, 0.4)),url('https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+
+}
+.home p{
+    margin: 14px 0;
+}
+
+.home h1{
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
